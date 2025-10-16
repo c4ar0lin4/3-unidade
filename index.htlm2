@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista com estilo</title>
+</head>
+<body>
+
+    <h1>Minhas informações</h1>
+
+    <ul style="font-size: 18px; color: blue;">
+        <li>**Nome:** [Seu Nome]</li>
+        <li>**Idade:** [Sua Idade]</li>
+        <li>**Cidade:** [Sua Cidade]</li>
+    </ul>
+
+</body>
+</html>
